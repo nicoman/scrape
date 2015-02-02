@@ -1,0 +1,1 @@
+from livingsocial_spider import LivingSocialSpider
